@@ -2,7 +2,7 @@ package application;
 import java.util.Locale;
 import java.util.Scanner;
 import entities.Product;
-public class Program_1 {
+public class Program {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
@@ -31,9 +31,3 @@ public class Program_1 {
         sc.close();
     }
 }
-// Exemplo do terminal :
-//Name: camila
-//        Price: 12
-//        Quantity in stock: 5
-//
-//        Product data: camila, $ 12.00, 5 units, Total: $ 60.00
