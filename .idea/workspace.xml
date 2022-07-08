@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="363e678a-c673-484d-8bbe-d91f52797ff7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/entities/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScrip_Anotações/Caderno-Codigo-01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScrip_Anotações/Caderno-Codigo-02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScrip_Anotações/Caderno-Codigo-03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScrip_Anotações/Caderno-Codigo-04" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Adquirir_e _criando_projetos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Como funciona internet?_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Como funciona internet?_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Como funciona internet?_3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Como funciona internet?_4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Criando-brenches" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Fluxo_de _comando_git" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Git -Reset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Git_add" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Git_atualizar_projetos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Git_clone" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Git_commit_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Git_commit_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Git_commit_3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Git_dif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Git_flow01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Git_flow02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Git_init" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Git_push_na_branch_master" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Git_remote" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Git_status" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Github" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Oque é branches?" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Oque é git?" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Oque é um github?" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Oque_é_head?" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Pull-Request" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/Snapshotting_basico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/fluxo_de_trabalho" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides_Gits-Funções/pull_reset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_espress" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BfdhOCnzCIcLRFHEcFzT5hRSiC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "/home/camilasantos/Documentos/Desenvolvimento_web",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <module name="Desenvolvimento_web" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="363e678a-c673-484d-8bbe-d91f52797ff7" name="Changes" comment="" />
+      <created>1657301191141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657301191141</updated>
+      <workItem from="1657301193252" duration="1101000" />
+      <workItem from="1657302321831" duration="3000" />
+      <workItem from="1657302334161" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
